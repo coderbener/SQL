@@ -1,0 +1,1 @@
+REGEXP_LIKE('^[a-zA-z][a-zA-z0-9]@leetcode[.]com$')
